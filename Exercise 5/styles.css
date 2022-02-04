@@ -1,0 +1,22 @@
+.div-1 {
+  background-color: purple;
+  color: white;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.div-1:hover {
+  background-color: blue;
+}
+
+#boton {
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+  font-size: 2rem;
+  color: black;
+  background-color: aqua;
+}
